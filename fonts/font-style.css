@@ -1,0 +1,22 @@
+/*css*/
+
+
+/*HelveticaNeue-Thin*/
+@font-face {
+ font-family: 'Gotham-Medium';
+ src:url('Gotham-Medium.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+ @font-face {
+ font-family: 'Gotham-Bold';
+ src:url('Gotham-Bold.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
+ @font-face {
+ font-family: 'Gotham-Black';
+ src:url('Gotham-Black.ttf');
+ font-weight: normal;
+ font-style: normal;
+}
